@@ -1,10 +1,10 @@
 # **Procedimiento de actualización de certificado para el servicio de consultas de RENAPO**.
 
 ## Descripción
-Servicio que permite acreditar, registrar la prueba de vivencia de un productor y actualizar datos a través de un convenio que se suscribe con RENAPO; así como el registro de la opinión del cumplimiento de las obligaciones fiscales a través de un convenio que se suscribe con el SAT.
+Servicio que permite acreditar, la renovación del certificado de seguridad de RENAPO para el dominio curp.gob.mx.
 
 ### ¿Quién y cómo se puede solicitar?
-Lo puede solicitar personal de las Unidades Administrativas que utilicen o hayan utilizado algún Sistema/Aplicación administrado por la DGTIC, que se recibe por medio de la Mesa de Servicios a través de un correo electrónico a la cuenta mesa.servicios@agricultura.gob.mx. turnado por el Director de Área o superior.
+Lo puede solicitar personal de las Unidades Administrativas que utilicen o hayan utilizado algún Sistema/Aplicación administrado por la DGTIC, que se recibe por medio de la Mesa de Servicios a través de un correo electrónico a la cuenta mesa.servicios@agricultura.gob.mx. turnado por un Director de Área o superior.
 
 ### Tiempo de atención
 Tiempo de primer contacto:  5 días hábiles
