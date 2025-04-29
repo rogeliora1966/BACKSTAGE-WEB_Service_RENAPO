@@ -34,7 +34,7 @@ Establecer los pasos para la correcta atención de las solicitudes relacionadas 
 	1.2. Mesa de Servicios crea un ticket de atención para cada solicitud recibida, registrando la información relevante para su seguimiento.
 
 2.2. Validación de Observaciones
-	2.1. Mesa de Servicios revisa la solicitud y verifica si existen observaciones que impidan su atención inmediata.
+	2.1. Mesa de Servicios revisa la solicitud y verifica si existen observaciones que impidan su atención 		inmediata.
 	2.2. En caso de que se detecten observaciones, Mesa de Servicios contacta al área requirente para solicitar los datos adicionales o correcciones necesarias para poder proceder con la solicitud.
 	2.3. Si no se detectan observaciones, Mesa de Servicios emite un número de folio que se utilizará para dar seguimiento a la solicitud y remite el ticket a la Dirección del agente del enlace administrativo de la Subdirección de Operación y Administración de Sistemas.
 
