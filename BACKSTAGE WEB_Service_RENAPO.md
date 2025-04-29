@@ -35,26 +35,25 @@ Establecer los pasos para la correcta atención de las solicitudes relacionadas 
 
 2. Validación de Observaciones.
 
-2.1. Mesa de Servicios revisa la solicitud y verifica si existen observaciones que impidan 
+	2.1. Mesa de Servicios revisa la solicitud y verifica si existen observaciones que impidan 
 	su atención inmediata.
  
-2.2. En caso de que se detecten observaciones, Mesa de Servicios contacta al área requirente para
+	2.2. En caso de que se detecten observaciones, Mesa de Servicios contacta al área requirente para
 	solicitar los datos adicionales o correcciones necesarias para poder proceder con la solicitud.
  
-2.3. Si no se detectan observaciones, Mesa de Servicios emite un número de folio que se utilizará para dar 	
-	seguimiento a la solicitud y remite el ticket a la Dirección del agente del enlace administrativo 
- 	de la Subdirección de Operación y Administración de Sistemas.
+	2.3. Si no se detectan observaciones, Mesa de Servicios emite un número de folio que se utilizará para dar 	seguimiento a la solicitud y remite el ticket a la Dirección del agente del enlace administrativo 
+	de la Subdirección de Operación y Administración de Sistemas.
 
 3. Validación del Solicitante
-	3.1. El enlace administrativo de la Subdirección de Operación y Administración de Sistemas recibe la solicitud y valida si el solicitante es personal de la Secretaría.
+	3.1. El enlace administrativo de la Subdirección de Operación y Administración de Sistemas recibe la 		solicitud y valida si el solicitante es personal de la Secretaría.
 	
-	3.2. Si el solicitante es personal de la Secretaría, la Subdirección de Operación y Administración de Sistemas continúa con el trámite de actualización del certificado.
+	3.2. Si el solicitante es personal de la Secretaría, la Subdirección de Operación y Administración de 		Sistemas continúa con el trámite de actualización del certificado.
 	
-	3.3. Si el solicitante no es personal de la Secretaría, la Subdirección de Operación y Administración de Sistemas emite un oficio de respuesta, notificando al área requirente que el servicio no procede.
+	3.3. Si el solicitante no es personal de la Secretaría, la Subdirección de Operación y Administración de 	Sistemas emite un oficio de respuesta, notificando al área requirente que el servicio no procede.
 
 4. Ejecución de la Solicitud
 	4.2. La actualización del certificado vigente es entregada por RENAPO a través de correo electrónico.
-	4.1. Una vez validada la solicitud, la Subdirección de Operación y Administración de Sistemas procede con la ejecución del proceso de actualización del certificado vigente.
+	4.1. Una vez validada la solicitud, la Subdirección de Operación y Administración de Sistemas procede con la 	ejecución del proceso de actualización del certificado vigente.
 
 	
 
