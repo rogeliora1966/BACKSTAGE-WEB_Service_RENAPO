@@ -29,9 +29,10 @@ Objetivo:
 Establecer los pasos para la correcta atención de las solicitudes relacionadas con la actualización de certificados del WEBservice a través del servicio de consultas de RENAPO, asegurando una gestión eficiente y el cumplimiento de los procedimientos internos.
 
 1. Recepción de Solicitud
-	1.1. La solicitud es recibida por parte de Mesa de Servicios a través del correo electrónico institucional: mesa.servicios@agricultura.gob.mx.
+	
+	1.1. La solicitud es recibida por parte de Mesa de Servicios a través del correo electrónico institucional: 	mesa.servicios@agricultura.gob.mx.
 
-	1.2. Mesa de Servicios crea un ticket de atención para cada solicitud recibida, registrando la información relevante para su seguimiento.
+	1.2. Mesa de Servicios crea un ticket de atención para cada solicitud recibida, registrando la información 	relevante para su seguimiento.
 
 2. Validación de Observaciones.
 
@@ -45,22 +46,26 @@ Establecer los pasos para la correcta atención de las solicitudes relacionadas 
 	de la Subdirección de Operación y Administración de Sistemas.
 
 3. Validación del Solicitante
-	3.1. El enlace administrativo de la Subdirección de Operación y Administración de Sistemas recibe la 		solicitud y valida si el solicitante es personal de la Secretaría.
+	
+ 	3.1. El enlace administrativo de la Subdirección de Operación y Administración de Sistemas recibe la 		solicitud y valida si el solicitante es personal de la Secretaría.
 	
 	3.2. Si el solicitante es personal de la Secretaría, la Subdirección de Operación y Administración de 		Sistemas continúa con el trámite de actualización del certificado.
 	
 	3.3. Si el solicitante no es personal de la Secretaría, la Subdirección de Operación y Administración de 	Sistemas emite un oficio de respuesta, notificando al área requirente que el servicio no procede.
 
 4. Ejecución de la Solicitud
-	4.2. La actualización del certificado vigente es entregada por RENAPO a través de correo electrónico.
-	4.1. Una vez validada la solicitud, la Subdirección de Operación y Administración de Sistemas procede con la 	ejecución del proceso de actualización del certificado vigente.
+	
+ 	4.2. La actualización del certificado vigente es entregada por RENAPO a través de correo electrónico.
+	
+ 	4.1. Una vez validada la solicitud, la Subdirección de Operación y Administración de Sistemas procede con la 	ejecución del proceso de actualización del certificado vigente.
 
 	
 
 5. Notificación y Cierre de Ticket
-	5.1. Una vez finalizada la actualización del certificado, la Subdirección de Operación y Administración de Sistemas notifica la conclusión del proceso a través de la plataforma de Mesa de Servicios.
+	
+ 	5.1. Una vez finalizada la actualización del certificado, la Subdirección de Operación y Administración de 	Sistemas notifica la conclusión del proceso a través de la plataforma de Mesa de Servicios.
 
-	5.2. Mesa de Servicios cierra el ticket en la plataforma, completando así el ciclo del servicio solicitado.
+	 5.2. Mesa de Servicios cierra el ticket en la plataforma, completando así el ciclo del servicio olicitado.
 
 
 - **Diagrama del Procedimiento**
@@ -68,7 +73,8 @@ Establecer los pasos para la correcta atención de las solicitudes relacionadas 
 ```plaintext
 +-------------------------------------------+
 |       Recepción de correo electrónico     |
-|           en la cuenta                    | |mesa.servicios@agricultura.gob.mx          |
+|           en la cuenta                    |
+|     mesa.servicios@agricultura.gob.mx     |
 +--------------------+----------------------+
                      |
                      v
