@@ -26,6 +26,7 @@ KPI:
 ###   BACKSTAGE
 **Procedimiento de actualización de certificado para el servicio de consultas de RENAPO**.
 Objetivo:
+
 Establecer los pasos para la correcta atención de las solicitudes relacionadas con la actualización de certificados del WEBservice a través del servicio de consultas de RENAPO, asegurando una gestión eficiente y el cumplimiento de los procedimientos internos.
 
 1. Recepción de Solicitud
@@ -45,15 +46,14 @@ Establecer los pasos para la correcta atención de las solicitudes relacionadas 
 	2.3. Si no se detectan observaciones, Mesa de Servicios emite un número de folio que se utilizará para dar 	seguimiento a la solicitud y remite el ticket a la Dirección del agente del enlace administrativo 
 	de la Subdirección de Operación y Administración de Sistemas.
 
-3. Validación del Solicitante
+3. Validación del Solicitante.
 	
  	3.1. El enlace administrativo de la Subdirección de Operación y Administración de Sistemas recibe la 		solicitud y valida si el solicitante es personal de la Secretaría.
 	
 	3.2. Si el solicitante es personal de la Secretaría, la Subdirección de Operación y Administración de 		Sistemas continúa con el trámite de actualización del certificado.
 	
-	3.3. Si el solicitante no es personal de la Secretaría, la Subdirección de Operación y Administración de 	Sistemas emite un oficio de respuesta, notificando al área requirente que el servicio no procede.
-
-4. Ejecución de la Solicitud
+	
+4. Ejecución de la Solicitud.
 	
  	4.2. La actualización del certificado vigente es entregada por RENAPO a través de correo electrónico.
 	
@@ -65,7 +65,7 @@ Establecer los pasos para la correcta atención de las solicitudes relacionadas 
 	
  	5.1. Una vez finalizada la actualización del certificado, la Subdirección de Operación y Administración de 	Sistemas notifica la conclusión del proceso a través de la plataforma de Mesa de Servicios.
 
-	 5.2. Mesa de Servicios cierra el ticket en la plataforma, completando así el ciclo del servicio olicitado.
+	 5.2. Mesa de Servicios cierra el ticket en la plataforma, completando así el ciclo del servicio solicitado.
 
 
 - **Diagrama del Procedimiento**
