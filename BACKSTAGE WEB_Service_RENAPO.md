@@ -78,49 +78,49 @@ Establecer los pasos para la correcta atención de las solicitudes relacionadas 
 +--------------------+----------------------+
                      |
                      v
-       +-----------------------------+
-       |Mesa de Servicios crea ticket|
-       +-----------------------------+
+       +------------------------------------------+
+       |Mesa de Servicios crea un numero de ticket|
+       +------------------------------------------+
                      |
                      v
          +-------------------------+
          | ¿Existen observaciones?  |
          +-----------+-------------+
-             | Sí       | No
-             v          v
-   +------------------+    +-------------------+
-   | Informar área    |    | Emitir número de     |
-   | requirente sobre |    | folio y dar      |
-   | datos necesarios |    | seguimiento al   |
-   |                  |    | enlace inistrativo|
-   +------------------+    +-------------------+
-             |                    |
-             v                    v
-     +-------------------+   +----------------------------+
-     | Enlace recibe la  |   | Enlace valida si es personal |
-     | solicitud y valida|   | de la Secretaría            |
-     | si es personal de |   +----------------------------+
-     | la Secretaría     |                    |
-     +-------------------+         +----------+---------+
-             | No                      | Sí
+             | Sí            | No
+             v               v
+   +------------------+    +----------------------+
+   | Informar área    |    |  Emitir número de    |
+   | mesa de ayuda    |    |    folio y dar       |
+   |  requirente sobre|    |  seguimiento al      |
+   | datos necesarios |    | enlace administrativo|
+   +------------------+    +----------------------+
+             |                         |
              v                         v
-   +----------------------------+  +-----------------------+
-   | Enlace genera oficio de    |  | Procede con actualización|
-   | respuesta y notifica       |  | de certificado vigente   |
-   | a mesa de servicios        |  +-----------------------+
+     +-------------------+   +------------------------------+
+     | Enlace recibe la  |   | Enlace valida si es personal |
+     | solicitud y valida|   | de la Secretaría             |
+     | si es personal de |   +------------------------------+
+     | la Secretaría     |                    |
+     +-------------------+                    |
+             | No                             | Sí
+             v                                v
+   +----------------------------+  +------------------------------------+
+   | Enlace genera respuesta    |  |         RENAPO entrega el          |
+   | respuesta y notifica       |  | certificado vía correo electrónico |
+   | a mesa de servicios        |  +------------------------------------+
    +----------------------------+             |
-             |                               v
-             v                    +-----------------------+
-    +------------------+           | RENAPO entrega el     |
-    | Mesa de Servicios|<----------| certificado vía correo|
-    | notifica vía     |           | electrónico            |
-    | plataforma       |           +-----------------------+
-    +------------------+                    |
-             |                              v
-             v                    +------------------------+
-       +-----------------------+  | Cierre del ticket en    |
-       | Cerrar ticket en Mesa  |  | la plataforma          |
-       | de Servicios           |  +------------------------+
+             |                                v
+             v                     +---------------------------+
+    +------------------+           | Procede con actualización |
+    | Mesa de Servicios|<----------|     del certificado       |
+    | notifica vía     |           |         vigente           |
+    | plataforma       |           +---------------------------+
+    +------------------+                    
+             |                              
+             v                    
+       +-----------------------+  
+       | Cerrar ticket en Mesa  |  
+       | de Servicios           |  
        +-----------------------+
 ```
 
