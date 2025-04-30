@@ -1,4 +1,4 @@
-# **Procedimiento de actualización de certificado para el servicio de consultas de RENAPO**.
+# **Proceso de actualización de certificado para el servicio de consultas de RENAPO**.
 
 ## Descripción
 Servicio que permite acreditar, la renovación del certificado de seguridad de RENAPO para el dominio curp.gob.mx.
@@ -31,14 +31,16 @@ Establecer los pasos para la correcta atención de las solicitudes relacionadas 
 
 1. Recepción de Solicitud
 	
-	1.1. La solicitud es recibida por parte de Mesa de Servicios a través del correo electrónico institucional: 	mesa.servicios@agricultura.gob.mx.
 
-	1.2. Mesa de Servicios crea un ticket de atención para cada solicitud recibida, registrando la información 	relevante para su seguimiento.
+
+	1.1. Mesa de Servicios crea un ticket de atención para cada solicitud recibida, registrando la información 	relevante para su seguimiento.
+
+   	1.2. La solicitud es recibida por parte de Mesa de Servicios a través del correo electrónico institucional: 	mesa.servicios@agricultura.gob.mx, y remite el ticket a la Dirección del agente del enlace administrativo 
+	de la Subdirección de Operación y Administración de Sistemas.
 
 2. Validación de Observaciones.
 
-	2.1. Mesa de Servicios revisa la solicitud y verifica si existen observaciones que impidan 
-	su atención inmediata.
+	2.1. Mesa de Servicios revisa la solicitud y verifica, remite al area involucrada para la voloración de las 	observaciones que impidan su atención inmediata.
  
 	2.2. En caso de que se detecten observaciones, Mesa de Servicios contacta al área requirente para
 	solicitar los datos adicionales o correcciones necesarias para poder proceder con la solicitud.
@@ -48,27 +50,28 @@ Establecer los pasos para la correcta atención de las solicitudes relacionadas 
 
 3. Validación del Solicitante.
 	
- 	3.1. El enlace administrativo de la Subdirección de Operación y Administración de Sistemas recibe la 		solicitud y valida si el solicitante es personal de la Secretaría.
+ 	3.1. El enlace administrativo de la Subdirección de Operación y Administración de Sistemas recibe la 		solicitud y valida si el solicitante es personal involucrado en la DGTIC de la Secretaría.
 	
-	3.2. Si el solicitante es personal de la Secretaría, la Subdirección de Operación y Administración de 		Sistemas continúa con el trámite de actualización del certificado.
+	3.2. Si el solicitante es personal involucrado en la Secretaría, la Subdirección de Operación y 		Administración de Sistemas continúa con el trámite de actualización del certificado.
 	
 	
 4. Ejecución de la Solicitud.
 	
- 	4.2. La actualización del certificado vigente es entregada por RENAPO a través de correo electrónico.
+   	4.1 La actualización del certificado vigente es entregada por RENAPO a través de correo electrónico a 		personal involucrado en la DGTIC.
 	
- 	4.1. Una vez validada la solicitud, la Subdirección de Operación y Administración de Sistemas procede con la 	ejecución del proceso de actualización del certificado vigente.
+   	4.2. Una vez validada la solicitud, la Subdirección de Operación y Administración de Sistemas procede con la 	ejecución del proceso de actualización del certificado vigente.
 
 	
 
 5. Notificación y Cierre de Ticket
 	
- 	5.1. Una vez finalizada la actualización del certificado, la Subdirección de Operación y Administración de 	Sistemas notifica la conclusión del proceso a través de la plataforma de Mesa de Servicios.
+ 	5.1. Una vez finalizada la actualización del certificado, la Subdirección de Operación y Administración de 	Sistemas notifica la conclusión del proceso para su valoracion a través de la plataforma de Mesa de Servicios.
 
 	 5.2. Mesa de Servicios cierra el ticket en la plataforma, completando así el ciclo del servicio solicitado.
 
 
 - **Diagrama del Procedimiento**
+[Renapo.pdf](https://github.com/user-attachments/files/19982005/Renapo.pdf)
 
 ```plaintext
 +-------------------------------------------+
