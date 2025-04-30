@@ -19,9 +19,8 @@ Métricas:
 ```
 KPI:
 ```
-           % de inconsistencias 
-           % de bajas 
-           índice de estatus de mortalidad (Estatus de supervivencia)
+           % en relacion al numero de incidencias o inconsistencias en la vigencia del cetificado de RENAPO 
+           % de bajas índice de estatus de mortalidad (Estatus de supervivencia)
            % de población actualizada
 ###   BACKSTAGE
 **Procedimiento de actualización de certificado para el servicio de consultas de RENAPO**.
