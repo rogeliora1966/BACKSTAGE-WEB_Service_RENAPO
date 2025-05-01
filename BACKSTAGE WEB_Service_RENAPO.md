@@ -1,27 +1,3 @@
-# **Proceso de actualización de certificado para el servicio de consultas de RENAPO**.
-
-## Descripción
-Servicio que permite acreditar, la renovación del certificado de seguridad de RENAPO para el dominio curp.gob.mx.
-
-### ¿Quién y cómo se puede solicitar?
-Lo puede solicitar personal de las Unidades Administrativas que utilicen o hayan utilizado algún Sistema/Aplicación administrado por la DGTIC, que se recibe por medio de la Mesa de Servicios a través de un correo electrónico a la cuenta mesa.servicios@agricultura.gob.mx. turnado por un Director de Área o superior.
-
-### Tiempo de atención
-Tiempo de primer contacto:  5 días hábiles
-Tiempo de atención: 1 día hábil para RENAPO, 1 días hábil para el SAT.
-
-Métricas y KPIs
-<!-- Describir las métricas y KPIs para este servicio que ayuden a medir el desempeño y la calidad del mismo.-->
-
-Métricas: 
-`actualizar
-               Despliegue de certificado en el servicio de consultas de RENAPO una vez recibido el certificado vigente.         
-```
-KPI:
-```
-           % en relacion al numero de incidencias o inconsistencias en la vigencia del cetificado de RENAPO 
-           % de bajas índice de estatus de mortalidad (Estatus de supervivencia)
-           % de población actualizada
 ###   BACKSTAGE
 **Procedimiento de actualización de certificado para el servicio de consultas de RENAPO**.
 
