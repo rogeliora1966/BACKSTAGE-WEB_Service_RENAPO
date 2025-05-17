@@ -29,8 +29,8 @@ Contar con la siguiente información del usuario responsable:
 Ambos documentos deberán ser turnados a la Dirección General de Programación, Presupuesto y Finanzas (UR 510) para su revisión, la cual será responsable de enviarlos a la Mesa de Servicios mediante correo electrónico a la cuenta: mesa.servicios@agricultura.gob.mx, en donde la redacción del asunto deberá incluir la palabra **SICOP**
 
 **Documentos requeridos:**
-- Carta responsiva (https://docs.google.com/document/d/1HH1tIo1WJ1A0SdRRofnjgWICBSQobGFI/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true](https://docs.google.com/document/d/1HH1tIo1WJ1A0SdRRofnjgWICBSQobGFI/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true))  [![](https://intranet.agricultura.gob.mx/sites/default/files/intranet/images/servicios_dgtic/bullets/btn_descarga.png)](https://docs.google.com/document/d/1HH1tIo1WJ1A0SdRRofnjgWICBSQobGFI/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)
-- ABC de usuarios: [Layout de usuarios](https://docs.google.com/spreadsheets/d/11F26M4w7knHbyEhyBojyHCGRbRoWOPhc/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/11F26M4w7knHbyEhyBojyHCGRbRoWOPhc/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)  [![](https://intranet.agricultura.gob.mx/sites/default/files/intranet/images/servicios_dgtic/bullets/btn_descarga.png)](https://docs.google.com/spreadsheets/d/11F26M4w7knHbyEhyBojyHCGRbRoWOPhc/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)
+- Carta responsiva: [Modelo de carta](https://docs.google.com/document/d/1HH1tIo1WJ1A0SdRRofnjgWICBSQobGFI/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)
+- ABC de usuarios: [Layout de usuarios](https://docs.google.com/spreadsheets/d/11F26M4w7knHbyEhyBojyHCGRbRoWOPhc/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)
 
 
 2. Para realizar altas, bajas o modificaciones en el padrón de viaticantes, se deberá requisitar el layout ABC de viaticantes y remitirlo a la Dirección General de Programación, Presupuesto y Finanzas (UR 510) para su revisión. Una vez validado, esta unidad será la encargada de enviar el documento a la Mesa de Servicios al correo electrónico mesa.servicios@agricultura.gob.mx, en donde la redacción del asunto deberá incluir la palabra **SICOP**
@@ -41,8 +41,7 @@ Ambos documentos deberán ser turnados a la Dirección General de Programación,
 3. Para realizar altas, bajas o modificaciones en el padrón de vehículos, se deberá requisitar el layout ABC de vehículos y remitirlo a la Dirección General de Programación, Presupuesto y Finanzas (UR 510) para su revisión. Una vez validado, esta unidad será la encargada de enviar el documento a la Mesa de Servicios al correo electrónico mesa.servicios@agricultura.gob.mx, en donde la redacción del asunto deberá incluir la palabra **SICOP**
 
 **Documento requerido:**
-- ABC de vehículos: [Layout de vehículos](https://docs.google.com/spreadsheets/d/1MIVSN9EAw6E4g70M705p7LVD_GTpxqGJ/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)  [![](https://intranet.agricultura.gob.mx/sites/default/files/intranet/images/servicios_dgtic/bullets/btn_descarga.png)](https://docs.google.com/spreadsheets/d/1MIVSN9EAw6E4g70M705p7LVD_GTpxqGJ/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)
-
+- ABC de vehículos: [Layout de vehículos](https://docs.google.com/spreadsheets/d/1MIVSN9EAw6E4g70M705p7LVD_GTpxqGJ/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)  
 4. Para realizar altas, bajas o modificaciones en el catálogo de firmas de Adecuaciones Presupuestarias, se deberá requisitar el layout de firmas de Adecuaciones Presupuestarias y remitirlo a la Dirección General de Programación, Presupuesto y Finanzas (UR 510) para su revisión. Una vez validado, esta unidad será la encargada de enviar el documento a la Mesa de Servicios al correo electrónico mesa.servicios@agricultura.gob.mx, en donde la redacción del asunto deberá incluir la palabra **SICOP**
 
 **Documento requerido:**
