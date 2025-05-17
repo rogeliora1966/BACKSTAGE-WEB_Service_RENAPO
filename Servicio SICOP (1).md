@@ -29,7 +29,7 @@ Contar con la siguiente información del usuario responsable:
 Ambos documentos deberán ser turnados a la Dirección General de Programación, Presupuesto y Finanzas (UR 510) para su revisión, la cual será responsable de enviarlos a la Mesa de Servicios mediante correo electrónico a la cuenta: mesa.servicios@agricultura.gob.mx, en donde la redacción del asunto deberá incluir la palabra **SICOP**
 
 **Documentos requeridos:**
-- Carta responsiva: [Modelo de carta](https://docs.google.com/document/d/1HH1tIo1WJ1A0SdRRofnjgWICBSQobGFI/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)
+- Documento de carta responsiva: [Carta responsiva](https://docs.google.com/document/d/1HH1tIo1WJ1A0SdRRofnjgWICBSQobGFI/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)
 - ABC de usuarios: [Layout de usuarios](https://docs.google.com/spreadsheets/d/11F26M4w7knHbyEhyBojyHCGRbRoWOPhc/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)
 
 
