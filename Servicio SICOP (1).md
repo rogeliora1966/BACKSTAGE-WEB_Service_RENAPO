@@ -50,7 +50,7 @@ Ambos documentos deberán ser turnados a la Dirección General de Programación,
 5. Para la asignación del folio identificador SICOP para viáticos, se deberá requisitar el layout de folios SICOP Viáticos y remitirlo a la Dirección General de Programación, Presupuesto y Finanzas (UR 510) para su revisión. Una vez validado, esta unidad será la encargada de enviar el documento a la Mesa de Servicios al correo electrónico mesa.servicios@agricultura.gob.mx, en donde la redacción del asunto deberá incluir la palabra **SICOP**
 
 **Documento requerido:**
-- Folios SICOP Viáticos https://docs.google.com/spreadsheets/d/1xE7XJH4X4cNeZvCz8DhSZEluTc7g_5Bd/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true
+- Folios SICOP Viáticos: [Layout Viaticos](https://docs.google.com/spreadsheets/d/1xE7XJH4X4cNeZvCz8DhSZEluTc7g_5Bd/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)
 
 
 6. Para la asignación del folio identificador SICOP para proveedores y/o beneficiarios, se recibe por medio de la Mesa de Servicios a través de un correo electrónico a la cuenta mesa.servicios@agricultura.gob.mx, en donde la redacción del asunto deberá incluir la palabra **SICOP**
