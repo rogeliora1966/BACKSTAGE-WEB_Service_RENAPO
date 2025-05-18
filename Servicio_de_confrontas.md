@@ -13,11 +13,11 @@ Servicio que permite acreditar, registrar la prueba de vivencia de un productor 
 
 ### Requisitos para solicitar el servicio
 - Oficio dirigido al titular de la Dirección General de Tecnologías de la Información y Comunicaciones, firmado por el Director de área o superior.​
-​Formatos requeridos: 
-    - Formato de Oficio  https://docs.google.com/document/d/1Ar761UqRtmDFvm1eXvGMjlrElQK_h0zk/edit?usp=sharing&ouid=109952300900615467549&rtpof=true&sd=true
+Formatos requeridos:  
+    - [Formato de Oficio](https://docs.google.com/document/d/1Ar761UqRtmDFvm1eXvGMjlrElQK_h0zk/edit?usp=sharing&ouid=109952300900615467549&rtpof=true&sd=true)
 
-- Requisitar el layout de CURP. La información contenida en este layout deberá de existir en el padrón de productores para su validación
-    - Layout de CURP https://docs.google.com/spreadsheets/d/1Tnfh8gdW3eTxNlipB5lSbID7hUGQey-t/edit?usp=sharing&ouid=109952300900615467549&rtpof=true&sd=true
+- Requisitar el layout de CURP. - La información contenida en este layout deberá de existir en el padrón de productores para su validación
+    - [Layout de CURP](https://docs.google.com/spreadsheets/d/1Tnfh8gdW3eTxNlipB5lSbID7hUGQey-t/edit?usp=sharing&ouid=109952300900615467549&rtpof=true&sd=true))
 
 ### ¿Quién puede solicitar el servicio?
 - Lo puede solicitar personal de las Unidades Administrativas que utilicen o hayan utilizado algún Sistema/Aplicación administrado por la DGTIC.
