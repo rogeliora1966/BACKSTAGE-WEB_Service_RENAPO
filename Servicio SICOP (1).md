@@ -26,7 +26,7 @@ Contar con la siguiente información del usuario responsable:
 * La carta responsiva para la persona usuaria del Sistema de Contabilidad y Presupuesto (SICOP), la cual deberá estar firmada por el propio usuario.
 * El layout ABC de usuarios, que deberá ser firmado por un Director adscrito a la Dirección General de Programación, Presupuesto y Finanzas (UR 510).
 
-Ambos documentos deberán ser turnados a la Dirección General de Programación, Presupuesto y Finanzas (UR 510) para su revisión, la cual será responsable de enviarlos a la Mesa de Servicios mediante correo electrónico a la cuenta: mesa.servicios@agricultura.gob.mx, en donde la redacción del asunto deberá incluir la palabra **SICOP**
+Ambos documentos deberán ser turnados a la Dirección General de Programación, Presupuesto y Finanzas (UR 510) para su revisión, la cual será responsable de enviarlos a la Mesa de Servicios mediante correo electrónico a la cuenta: mesa.servicios@agricultura.gob.mx, en donde la redacción del asunto deberá incluir la palabra **SICOP** para la rápida atención de la solicitud.
 
 **Documentos requeridos:**
 - Documento de carta responsiva: [Carta responsiva](https://docs.google.com/document/d/1HH1tIo1WJ1A0SdRRofnjgWICBSQobGFI/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)
