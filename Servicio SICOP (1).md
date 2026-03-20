@@ -33,7 +33,7 @@ Ambos documentos deberán ser turnados a la Dirección General de Programación,
 - ABC de usuarios: [Layout de usuarios](https://docs.google.com/spreadsheets/d/11F26M4w7knHbyEhyBojyHCGRbRoWOPhc/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)
 
 
-2. Para realizar altas, bajas o modificaciones en el padrón de viaticantes, se deberá requisitar el layout ABC de viaticantes y remitirlo a la Dirección General de Programación, Presupuesto y Finanzas (UR 510) para su revisión. Una vez validado, esta unidad será la encargada de enviar el documento a la Mesa de Servicios al correo electrónico mesa.servicios@agricultura.gob.mx, en donde la redacción del asunto deberá incluir la palabra **SICOP**
+2. Para realizar altas, bajas o modificaciones en el padrón de viaticantes, se deberá requisitar el layout ABC de viaticantes y remitirlo a la Dirección General de Programación, Presupuesto y Finanzas (UR 510) para su revisión. Una vez validado, esta unidad será la encargada de enviar el documento a la Mesa de Servicios al correo electrónico mesa.servicios@agricultura.gob.mx, en donde la redacción del asunto deberá incluir la palabra **SICOP** y/o **SIPREC** para la rápida atención de la solicitud.
 
 **Documento requerido:**
 - ABC de viaticantes: [Layout de viaticantes](https://drive.google.com/file/d/1hRW_4SZ06ihs-X4Lt_v0trc7pdcph_tk/view?usp=drive_link)
