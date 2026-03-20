@@ -5,7 +5,6 @@
 - Nomenclatura: DGTIC/DSSD/513.01.04.02
 
 ## FRONTSTAGE
-_[Es todo lo que el cliente ve, toca y/o experimenta del servicio solicitado.]_
 
 ### DESCRIPCIÓN DEL SERVICIO
 Servicio mediante el cual los servidores públicos en la Secretaria de Agricultura designados como “Configuradores” de las dependencias del sector central de la Administración Pública Federal (APF), podrá realizar las funciones más relevantes del Sistema de Contabilidad y Presupuesto (SICOP).
