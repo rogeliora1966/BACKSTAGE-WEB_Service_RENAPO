@@ -33,16 +33,16 @@ Ambos documentos deberán ser turnados a la Dirección General de Programación,
 - ABC de usuarios: [Layout de usuarios](https://docs.google.com/spreadsheets/d/11F26M4w7knHbyEhyBojyHCGRbRoWOPhc/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)
 
 
-2. Para realizar altas, bajas o modificaciones en el padrón de viaticantes, se deberá requisitar el layout ABC de viaticantes y remitirlo a la Dirección General de Programación, Presupuesto y Finanzas (UR 510) para su revisión. Una vez validado, esta unidad será la encargada de enviar el documento a la Mesa de Servicios al correo electrónico mesa.servicios@agricultura.gob.mx, en donde la redacción del asunto deberá incluir la palabra **SICOP** y/o **SIPREC** para la rápida atención de la solicitud.
+2. Para realizar altas, bajas o modificaciones en el padrón de viaticantes, se deberá requisitar el layout ABC de viaticantes y remitirlo a la Dirección General de Programación, Presupuesto y Finanzas (UR 510) para su revisión. Una vez validado, esta unidad será la encargada de enviar el documento a la Mesa de Servicios al correo electrónico mesa.servicios@agricultura.gob.mx, en donde la redacción del asunto deberá incluir la palabra **SICOP** para la rápida atención de la solicitud.
 
 **Documento requerido:**
 - ABC de viaticantes: [Layout de viaticantes](https://drive.google.com/file/d/1hRW_4SZ06ihs-X4Lt_v0trc7pdcph_tk/view?usp=drive_link)
 
-3. Para realizar altas, bajas o modificaciones en el padrón de vehículos, se deberá requisitar el layout ABC de vehículos y remitirlo a la Dirección General de Programación, Presupuesto y Finanzas (UR 510) para su revisión. Una vez validado, esta unidad será la encargada de enviar el documento a la Mesa de Servicios al correo electrónico mesa.servicios@agricultura.gob.mx, en donde la redacción del asunto deberá incluir la palabra **SICOP**
+3. Para realizar altas, bajas o modificaciones en el padrón de vehículos, se deberá requisitar el layout ABC de vehículos y remitirlo a la Dirección General de Programación, Presupuesto y Finanzas (UR 510) para su revisión. Una vez validado, esta unidad será la encargada de enviar el documento a la Mesa de Servicios al correo electrónico mesa.servicios@agricultura.gob.mx, en donde la redacción del asunto deberá incluir la palabra **SICOP** para la rápida atención de la solicitud.
 
 **Documento requerido:**
 - ABC de vehículos: [Layout de vehículos](https://docs.google.com/spreadsheets/d/1MIVSN9EAw6E4g70M705p7LVD_GTpxqGJ/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)  
-4. Para realizar altas, bajas o modificaciones en el catálogo de firmas de Adecuaciones Presupuestarias, se deberá requisitar el layout de firmas de Adecuaciones Presupuestarias y remitirlo a la Dirección General de Programación, Presupuesto y Finanzas (UR 510) para su revisión. Una vez validado, esta unidad será la encargada de enviar el documento a la Mesa de Servicios al correo electrónico mesa.servicios@agricultura.gob.mx, en donde la redacción del asunto deberá incluir la palabra **SICOP**
+4. Para realizar altas, bajas o modificaciones en el catálogo de firmas de Adecuaciones Presupuestarias, se deberá requisitar el layout de firmas de Adecuaciones Presupuestarias y remitirlo a la Dirección General de Programación, Presupuesto y Finanzas (UR 510) para su revisión. Una vez validado, esta unidad será la encargada de enviar el documento a la Mesa de Servicios al correo electrónico mesa.servicios@agricultura.gob.mx, en donde la redacción del asunto deberá incluir la palabra **SICOP** para la rápida atención de la solicitud.
 
 **Documento requerido:**
 - ABC de firmas de Adecuaciones Presupuestarias: [Layout de firmas de Adecuaciones Presupuestarias](https://docs.google.com/spreadsheets/d/16YP3nGGqFjXU_H0rZAwIXOJ1b8QM9RhI/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)  
@@ -53,20 +53,20 @@ Ambos documentos deberán ser turnados a la Dirección General de Programación,
 - Folios SICOP Viáticos: [Layout Folio Viaticos](https://docs.google.com/spreadsheets/d/1xE7XJH4X4cNeZvCz8DhSZEluTc7g_5Bd/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)
 
 
-6. Para la asignación del folio identificador SICOP para proveedores y/o beneficiarios, se recibe por medio de la Mesa de Servicios a través de un correo electrónico a la cuenta mesa.servicios@agricultura.gob.mx, en donde la redacción del asunto deberá incluir la palabra **SICOP**
+6. Para la asignación del folio identificador SICOP para proveedores y/o beneficiarios, se recibe por medio de la Mesa de Servicios a través de un correo electrónico a la cuenta mesa.servicios@agricultura.gob.mx, en donde la redacción del asunto deberá incluir la palabra **SICOP** para la rápida atención de la solicitud.
     
     6a. Se requiere indicar lo siguiente:
     - Nombre de la razón social o nombre del proveedor y/o beneficiario
     - RFC con homoclave
 
-7. Para realizar altas, bajas y cambios en el catálogo de firmas de Cuentas por Liquidar, se recibe por medio de la Mesa de Servicios a través de un correo electrónico a la cuenta mesa.servicios@agricultura.gob.mx, en donde la redacción del asunto deberá incluir la palabra **SICOP**
+7. Para realizar altas, bajas y cambios en el catálogo de firmas de Cuentas por Liquidar, se recibe por medio de la Mesa de Servicios a través de un correo electrónico a la cuenta mesa.servicios@agricultura.gob.mx, en donde la redacción del asunto deberá incluir la palabra **SICOP** para la rápida atención de la solicitud.
 
     7.a Se requiere indicar lo siguiente:
     - Nombre del servidor público
     - Cargo del servidor público
     - Especificar si es para Visto Bueno y/o Autorizador
 
-8. Para la elaboración de reportes financieros, presupuestales y contables de información histórica, se recibe por medio de la Mesa de Servicios a través de un correo electrónico a la cuenta mesa.servicios@agricultura.gob.mx, en donde la redacción del asunto deberá incluir la palabra **SICOP**
+8. Para la elaboración de reportes financieros, presupuestales y contables de información histórica, se recibe por medio de la Mesa de Servicios a través de un correo electrónico a la cuenta mesa.servicios@agricultura.gob.mx, en donde la redacción del asunto deberá incluir la palabra **SICOP** y/o **SIPREC** para la rápida atención de la solicitud.
 
 ### TIEMPO DE ATENCIÓN
 
